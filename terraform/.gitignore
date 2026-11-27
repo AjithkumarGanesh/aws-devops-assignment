@@ -1,0 +1,14 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Terraform plan files
+*.tfplan
+
+# Backup files
+*.backup
+*.bak
+
+# SSH keys
+*.pem
+*.ppk
